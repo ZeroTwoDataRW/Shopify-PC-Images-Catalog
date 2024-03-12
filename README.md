@@ -57,7 +57,7 @@ Conduct the test by typing this command in the terminal:
 
 TRY THIS APP FOR YOURSELF BY CLICKING ON "gh-pages" underneath the "Environments" section on the right-hand side of the screen. Below is the link:
 
-[View App Here](https://github.com/ZeroTwoData/Shopify-Internship-Image-Repository/deployments/activity_log?environment=github-pages) 
+[View App Here]() 
 
 Note: After opening the app, click on the title PC Setup Image Repository to initialize the repository for use
 
