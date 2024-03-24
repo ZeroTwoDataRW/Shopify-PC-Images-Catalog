@@ -14,7 +14,7 @@ They are public/private spaces wherein users upload and store images (public rep
 
 Data Engineers typically store unchangeable, static files that includes executable code so it can run an isolated process within these containers (such as Docker). 
 
-But in place of static files this repo holds jpeg/png/svg images of "aesthetic-looking" computer setups.
+But in place of static files this repo holds jpeg/png/svg images of "aesthetic-looking" computer setups 🤣. 
 
 ## What Is the Purpose of This Application?
 The purpose of this application is to store images of "aesthetic-looking" computer setups (hence the name of this app, "Aesthetico"). Users can upload and store images (one at a time) inside the repo, as well as share with others by rightclicking on the image to save to their drive. *A multiple upload feature will be included in the future
